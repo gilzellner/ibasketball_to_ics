@@ -14,9 +14,9 @@ for rx in range(sheet.nrows):
         # game['index'] = str(sheet.row(rx)[0]).replace('text:', '')
         game['date'] = str(sheet.row(rx)[2]).replace('text:', '').replace('u', '').replace('\'', '')
         game['time'] = str(sheet.row(rx)[3]).replace('text:', '').replace('u', '').replace('\'', '')
-        game['home'] = str(sheet.row(rx)[4]).replace('text:', '').replace('u', '').replace('\'', '').encode('utf-8')
-        game['away'] = str(sheet.row(rx)[5]).replace('text:', '').replace('u', '').replace('\'', '').encode('utf-8')
-        game['location'] = str(sheet.row(rx)[6]).replace('text:', '').replace('u', '').replace('\'', '').encode('cp1255')
+        game['home'] = str(sheet.row(rx)[4]).replace('text:', '').encode('utf-8')
+        game['away'] = str(sheet.row(rx)[5]).replace('text:', '').encode('utf-8')
+        game['location'] = str(sheet.row(rx)[6]).replace('text:', '').encode('utf-8')
         schedule.append(game)
 
 for game in schedule:

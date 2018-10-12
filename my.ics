@@ -1,184 +1,303 @@
 BEGIN:VCALENDAR
 PRODID:ics.py - http://git.io/lLljaA
 VERSION:2.0
+X-EVOLUTION-DATA-REVISION:2018-10-12T13:17:33.955650Z(1)
 BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
-DTSTART:20190403T173000Z
-DTEND:20190403T193000Z
-SUMMARY:\\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd at \\05d4\\05e4\\05d5\\05e2\\05dc \\05e4\\05e8\\05d3\\05e1\\05d9\\05d4
-LOCATION:\\05d0\\05d5\\05dc\\05dd \\05e8\\05d7\\ \\05e8\\05de\\05d1"\\05dd \\05de\\05d5\\05dc \\05d1\\05d9\\05ea \\05e1\\05e4\\05e8 "\\05ea\\05e4\\05d5\\05d6" \\05e4\\05e8\\05d3\\05e1\\05d9\\05d4
-TRANSP:OPAQUE
-UID:848dd726-c125-4c8d-a606-3713ca937a8c@848d.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
-DTSTART:20190327T180000Z
-DTEND:20190327T200000Z
-SUMMARY:\\05d4\\05e4\\05d5\\05e2\\05dc \\05dc\\05d1 \\05d4\\05e9\\05e8\\05d5\\05df at \\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd
-LOCATION:"\\05d0\\05d5\\05dc\\05dd \\05d0\\05d9\\05e9 \\05e9\\05dc\\05d5\\05dd \\05e8\\05d7 \\05e0\\05d7\\05dc \\05e4\\05d5\\05dc\\05d2 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4"
-TRANSP:OPAQUE
-UID:48fd29bb-be68-4bb6-9b0e-4e6b2feb16a5@48fd.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
-DTSTART:20190410T180000Z
-DTEND:20190410T200000Z
-SUMMARY:\\05de.\\05e1. \\05e7\\05e8\\05e0\\05d9 \\05e9\\05d5\\05de\\05e8\\05d5\\05df at \\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd
-LOCATION:"\\05d0\\05d5\\05dc\\05dd \\05d0\\05d9\\05e9 \\05e9\\05dc\\05d5\\05dd \\05e8\\05d7 \\05e0\\05d7\\05dc \\05e4\\05d5\\05dc\\05d2 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4"
-TRANSP:OPAQUE
-UID:1e5e72ed-7328-41d9-abbf-1e7d2896da11@1e5e.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
-DTSTART:20181107T180000Z
-DTEND:20181107T200000Z
-SUMMARY:\\05d0\\05dc\\05d9\\05e6\\05d5\\05e8 \\05e6\\05e4\\05d5\\05df \\05e0\\05ea\\05e0\\05d9\\05d4 at \\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd
-LOCATION:"\\05d0\\05d5\\05dc\\05dd \\05d0\\05d9\\05e9 \\05e9\\05dc\\05d5\\05dd \\05e8\\05d7 \\05e0\\05d7\\05dc \\05e4\\05d5\\05dc\\05d2 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4"
-TRANSP:OPAQUE
-UID:ced6e30a-eae6-4113-8772-96dbc3c81f5a@ced6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
-DTSTART:20190213T173000Z
-DTEND:20190213T193000Z
-SUMMARY:\\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd at \\05d0\\05dc\\05d9\\05e6\\05d5\\05e8 \\05e6\\05e4\\05d5\\05df \\05e0\\05ea\\05e0\\05d9\\05d4
-LOCATION:\\05d1\\05d9\\05d4"\\05e1 \\05e9\\05e8\\05ea \\05e8\\05d7\\ \\05d2\\05e8\\05e0\\05d3\\05d5\\05e1 \\05e0\\05ea\\05e0\\05d9\\05d4
-TRANSP:OPAQUE
-UID:611f5547-70ab-4b57-b95b-d2104f17bee4@611f.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
-DTSTART:20181212T180000Z
-DTEND:20181212T200000Z
-SUMMARY:\\05d0\\05dc\\05d9\\05e6\\05d5\\05e8 \\05e8\\05e2\\05e0\\05e0\\05d4 at \\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd
-LOCATION:"\\05d0\\05d5\\05dc\\05dd \\05d0\\05d9\\05e9 \\05e9\\05dc\\05d5\\05dd \\05e8\\05d7 \\05e0\\05d7\\05dc \\05e4\\05d5\\05dc\\05d2 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4"
-TRANSP:OPAQUE
-UID:3ee293b1-b7fa-4f5b-adef-b3b5d27f8f15@3ee2.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
-DTSTART:20181017T173000Z
-DTEND:20181017T193000Z
-SUMMARY:\\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd at \\05de\\05db\\05d1\\05d9 \\05d4\\05d5\\05d3 \\05d4\\05e9\\05e8\\05d5\\05df
-LOCATION:"\\05d9\\05d2\\05d0\\05dc \\05d0\\05dc\\05d5\\05df \\05e8\\05d7 \\05de\\05e9\\05d0\\05d1\\05d9\\05dd 46 \\05d4\\05d5\\05d3 \\05d4\\05e9\\05e8\\05d5\\05df"
-TRANSP:OPAQUE
-UID:dd1372f0-ead6-4491-8f50-d37586524bc3@dd13.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
-DTSTART:20190109T180000Z
-DTEND:20190109T200000Z
-SUMMARY:\\05d4\\05e4\\05d5\\05e2\\05dc \\05d8\\05d9\\05d9\\05d1\\05d4 at \\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd
-LOCATION:"\\05d0\\05d5\\05dc\\05dd \\05d0\\05d9\\05e9 \\05e9\\05dc\\05d5\\05dd \\05e8\\05d7 \\05e0\\05d7\\05dc \\05e4\\05d5\\05dc\\05d2 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4"
-TRANSP:OPAQUE
-UID:2904d744-4b7d-4400-8cee-60bb7673a392@2904.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
-DTSTART:20181219T173000Z
-DTEND:20181219T193000Z
-SUMMARY:\\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd at \\05d4\\05e4\\05d5\\05e2\\05dc \\05dc\\05d1 \\05d4\\05e9\\05e8\\05d5\\05df
-LOCATION:\\05d1\\05d9\\05d4"\\05e1 \\05d4\\05d3\\05e8 \\05d4\\05e9\\05e8\\05d5\\05df \\05de\\05d5\\05e9\\05d1 \\05d7\\05e8\\05d5\\05ea
-TRANSP:OPAQUE
-UID:9f60f7f4-05b5-44a4-b1a0-c62ca65eb365@9f60.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
-DTSTART:20190227T180000Z
-DTEND:20190227T200000Z
-SUMMARY:\\05de\\05db\\05d1\\05d9 \\05e8\\05e2\\05e0\\05e0\\05d4 \\05d9\\05d5\\05d1\\05dc at \\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd
-LOCATION:"\\05d0\\05d5\\05dc\\05dd \\05d0\\05d9\\05e9 \\05e9\\05dc\\05d5\\05dd \\05e8\\05d7 \\05e0\\05d7\\05dc \\05e4\\05d5\\05dc\\05d2 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4"
-TRANSP:OPAQUE
-UID:e8f6afa3-22ad-40fb-8bcd-bea34643a04f@e8f6.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
+DTSTAMP:20181012T131441Z
 DTSTART:20190313T173000Z
 DTEND:20190313T193000Z
-SUMMARY:\\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd at \\05d0\\05dc\\05d9\\05e6\\05d5\\05e8 \\05e8\\05e2\\05e0\\05e0\\05d4
-LOCATION:\\05d1\\05d9\\05d4"\\05e1 \\05d0\\05e8\\05d9\\05d0\\05dc \\05e8\\05d7\\ \\05e9\\05e9\\05ea \\05d4\\05d9\\05de\\05d9\\05dd 25 \\05e8\\05e2\\05e0\\05e0\\05d4
+SUMMARY:u'\\u05d1\\u05d9\\u05ea"\\u05e8 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4 \\u05e9\\u05dc\\u05d5\\u05dd' at 
+ u'\\u05d0\\u05dc\\u05d9\\u05e6\\u05d5\\u05e8 
+ \\u05e8\\u05e2\\u05e0\\u05e0\\u05d4'
+LOCATION:u'\\u05d1\\u05d9\\u05d4"\\u05e1 
+ \\u05d0\\u05e8\\u05d9\\u05d0\\u05dc \\u05e8\\u05d7\\' 
+ \\u05e9\\u05e9\\u05ea \\u05d4\\u05d9\\u05de\\u05d9\\u05dd 25 
+ \\u05e8\\u05e2\\u05e0\\u05e0\\u05d4'
 TRANSP:OPAQUE
-UID:465708a2-c6b7-45da-89a9-2492d3cce655@4657.org
+UID:e1f8a098-47dd-4d5c-b3ba-d6ac4572a6e7@e1f8.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
-DTSTART:20181031T180000Z
-DTEND:20181031T200000Z
-SUMMARY:\\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd at \\05de.\\05e1. \\05d0\\05d1\\05df \\05d9\\05d4\\05d5\\05d3\\05d4
-LOCATION:"\\05d0\\05d5\\05dc\\05dd \\05e8\\05dc\\05e3 \\05e7\\05dc\\05d9\\05d9\\05df \\05e8\\05d7 \\05d4\\05e9\\05e8\\05d5\\05df \\05d0\\05d1\\05df \\05d9\\05d4\\05d5\\05d3\\05d4"
+DTSTAMP:20181012T131441Z
+DTSTART:20181107T180000Z
+DTEND:20181107T200000Z
+SUMMARY:u'\\u05d0\\u05dc\\u05d9\\u05e6\\u05d5\\u05e8 
+ \\u05e6\\u05e4\\u05d5\\u05df \\u05e0\\u05ea\\u05e0\\u05d9\\u05d4' at 
+ u'\\u05d1\\u05d9\\u05ea"\\u05e8 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4 \\u05e9\\u05dc\\u05d5\\u05dd'
+LOCATION:u"\\u05d0\\u05d5\\u05dc\\u05dd \\u05d0\\u05d9\\u05e9 
+ \\u05e9\\u05dc\\u05d5\\u05dd \\u05e8\\u05d7' \\u05e0\\u05d7\\u05dc 
+ \\u05e4\\u05d5\\u05dc\\u05d2 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4"
 TRANSP:OPAQUE
-UID:db5ce913-94c1-4100-9b82-c4e3f8d497c5@db5c.org
+UID:0e8abf38-92e0-438b-84b6-90689f83defe@0e8a.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
+DTSTAMP:20181012T131441Z
+DTSTART:20190327T180000Z
+DTEND:20190327T200000Z
+SUMMARY:u'\\u05d4\\u05e4\\u05d5\\u05e2\\u05dc \\u05dc\\u05d1 
+ \\u05d4\\u05e9\\u05e8\\u05d5\\u05df' at u'\\u05d1\\u05d9\\u05ea"\\u05e8 
+ \\u05db\\u05e4\\u05e8 \\u05d9\\u05d5\\u05e0\\u05d4 
+ \\u05e9\\u05dc\\u05d5\\u05dd'
+LOCATION:u"\\u05d0\\u05d5\\u05dc\\u05dd \\u05d0\\u05d9\\u05e9 
+ \\u05e9\\u05dc\\u05d5\\u05dd \\u05e8\\u05d7' \\u05e0\\u05d7\\u05dc 
+ \\u05e4\\u05d5\\u05dc\\u05d2 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4"
+TRANSP:OPAQUE
+UID:ea1c7257-2a51-4f8c-ac65-5a2ebf7f0564@ea1c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181012T131441Z
 DTSTART:20190417T173000Z
 DTEND:20190417T193000Z
-SUMMARY:\\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd at \\05d4\\05e4\\05d5\\05e2\\05dc \\05d8\\05d9\\05d9\\05d1\\05d4
-LOCATION:\\05d0\\05d5\\05dc\\05dd \\05d1\\05d9\\05d4"\\05e1 \\05ea\\05d9\\05db\\05d5\\05df \\05e2\\05ea\\05d9\\05d3 \\05d8\\05d9\\05d9\\05d1\\05d4
+SUMMARY:u'\\u05d1\\u05d9\\u05ea"\\u05e8 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4 \\u05e9\\u05dc\\u05d5\\u05dd' at 
+ u'\\u05d4\\u05e4\\u05d5\\u05e2\\u05dc 
+ \\u05d8\\u05d9\\u05d9\\u05d1\\u05d4'
+LOCATION:u'\\u05d0\\u05d5\\u05dc\\u05dd \\u05d1\\u05d9\\u05d4"\\u05e1 
+ \\u05ea\\u05d9\\u05db\\u05d5\\u05df \\u05e2\\u05ea\\u05d9\\u05d3 
+ \\u05d8\\u05d9\\u05d9\\u05d1\\u05d4'
 TRANSP:OPAQUE
-UID:2a147b2a-23f7-4d1c-a754-b3ceb81f3d9c@2a14.org
+UID:fb4cefc4-e1b5-4278-93dd-09f13d87f75a@fb4c.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
-DTSTART:20190130T173000Z
-DTEND:20190130T193000Z
-SUMMARY:\\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd at \\05de\\05db\\05d1\\05d9 \\05db\\05e4\\05e8 \\05e1\\05d1\\05d0
-LOCATION:\\05d0\\05d5\\05dc\\05dd \\05d0\\05dc\\05d5\\05df  \\05e9\\05e9\\05ea \\05d4\\05d9\\05de\\05d9\\05dd 32\\05db\\05e4\\05e8 \\05e1\\05d1\\05d0
+DTSTAMP:20181012T131441Z
+DTSTART:20190213T173000Z
+DTEND:20190213T193000Z
+SUMMARY:u'\\u05d1\\u05d9\\u05ea"\\u05e8 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4 \\u05e9\\u05dc\\u05d5\\u05dd' at 
+ u'\\u05d0\\u05dc\\u05d9\\u05e6\\u05d5\\u05e8 \\u05e6\\u05e4\\u05d5\\u05df 
+ \\u05e0\\u05ea\\u05e0\\u05d9\\u05d4'
+LOCATION:u'\\u05d1\\u05d9\\u05d4"\\u05e1 \\u05e9\\u05e8\\u05ea 
+ \\u05e8\\u05d7\\' \\u05d2\\u05e8\\u05e0\\u05d3\\u05d5\\u05e1 
+ \\u05e0\\u05ea\\u05e0\\u05d9\\u05d4'
 TRANSP:OPAQUE
-UID:3c1085ec-3f35-498f-b4fe-8dbf27f904db@3c10.org
+UID:c1fdc1ee-7e81-475f-a819-bda1622c802a@c1fd.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
+DTSTAMP:20181012T131441Z
 DTSTART:20181024T180000Z
 DTEND:20181024T200000Z
-SUMMARY:\\05de\\05db\\05d1\\05d9 \\05db\\05e4\\05e8 \\05e1\\05d1\\05d0 at \\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd
-LOCATION:"\\05d0\\05d5\\05dc\\05dd \\05d0\\05d9\\05e9 \\05e9\\05dc\\05d5\\05dd \\05e8\\05d7 \\05e0\\05d7\\05dc \\05e4\\05d5\\05dc\\05d2 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4"
+SUMMARY:u'\\u05de\\u05db\\u05d1\\u05d9 \\u05db\\u05e4\\u05e8 
+ \\u05e1\\u05d1\\u05d0' at u'\\u05d1\\u05d9\\u05ea"\\u05e8 
+ \\u05db\\u05e4\\u05e8 \\u05d9\\u05d5\\u05e0\\u05d4 
+ \\u05e9\\u05dc\\u05d5\\u05dd'
+LOCATION:u"\\u05d0\\u05d5\\u05dc\\u05dd \\u05d0\\u05d9\\u05e9 
+ \\u05e9\\u05dc\\u05d5\\u05dd \\u05e8\\u05d7' \\u05e0\\u05d7\\u05dc 
+ \\u05e4\\u05d5\\u05dc\\u05d2 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4"
 TRANSP:OPAQUE
-UID:28ebc3d5-754f-452c-a6ac-87905cc979f6@28eb.org
+UID:27a5f546-2ade-43f2-8847-bc7c0b4553dd@27a5.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
-DTSTART:20190206T180000Z
-DTEND:20190206T200000Z
-SUMMARY:\\05de.\\05e1. \\05d0\\05d1\\05df \\05d9\\05d4\\05d5\\05d3\\05d4 at \\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd
-LOCATION:"\\05d0\\05d5\\05dc\\05dd \\05d0\\05d9\\05e9 \\05e9\\05dc\\05d5\\05dd \\05e8\\05d7 \\05e0\\05d7\\05dc \\05e4\\05d5\\05dc\\05d2 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4"
+DTSTAMP:20181012T131441Z
+DTSTART:20190403T173000Z
+DTEND:20190403T193000Z
+SUMMARY:u'\\u05d1\\u05d9\\u05ea"\\u05e8 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4 \\u05e9\\u05dc\\u05d5\\u05dd' at 
+ u'\\u05d4\\u05e4\\u05d5\\u05e2\\u05dc 
+ \\u05e4\\u05e8\\u05d3\\u05e1\\u05d9\\u05d4'
+LOCATION:u'\\u05d0\\u05d5\\u05dc\\u05dd \\u05e8\\u05d7\\' 
+ \\u05e8\\u05de\\u05d1"\\u05dd \\u05de\\u05d5\\u05dc \\u05d1\\u05d9\\u05ea 
+ \\u05e1\\u05e4\\u05e8 "\\u05ea\\u05e4\\u05d5\\u05d6" 
+ \\u05e4\\u05e8\\u05d3\\u05e1\\u05d9\\u05d4'
 TRANSP:OPAQUE
-UID:72b23e86-0ae4-4603-bb8f-5c042cbf3f9f@72b2.org
+UID:489f030a-192c-45b8-a3f8-bbe409e17f68@489f.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
-DTSTART:20190123T180000Z
-DTEND:20190123T200000Z
-SUMMARY:\\05de\\05db\\05d1\\05d9 \\05d4\\05d5\\05d3 \\05d4\\05e9\\05e8\\05d5\\05df at \\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd
-LOCATION:"\\05d0\\05d5\\05dc\\05dd \\05d0\\05d9\\05e9 \\05e9\\05dc\\05d5\\05dd \\05e8\\05d7 \\05e0\\05d7\\05dc \\05e4\\05d5\\05dc\\05d2 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4"
-TRANSP:OPAQUE
-UID:d6cbd513-f673-4a5c-9343-271909e672b2@d6cb.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
-DTSTART:20190102T173000Z
-DTEND:20190102T193000Z
-SUMMARY:\\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd at \\05de.\\05e1. \\05e7\\05e8\\05e0\\05d9 \\05e9\\05d5\\05de\\05e8\\05d5\\05df
-LOCATION:\\05de\\05e8\\05db\\05d6 \\05e4\\05d9\\05d9\\05e1 \\05e7\\05d4\\05d9\\05dc\\05ea\\05d9 \\05e7\\05e8\\05e0\\05d9 \\05e9\\05d5\\05de\\05e8\\05d5\\05df
-TRANSP:OPAQUE
-UID:65b92029-0d61-4f9d-be35-e7b78241e2b8@65b9.org
-END:VEVENT
-BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
+DTSTAMP:20181012T131441Z
 DTSTART:20181226T180000Z
 DTEND:20181226T200000Z
-SUMMARY:\\05d4\\05e4\\05d5\\05e2\\05dc \\05e4\\05e8\\05d3\\05e1\\05d9\\05d4 at \\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd
-LOCATION:"\\05d0\\05d5\\05dc\\05dd \\05d0\\05d9\\05e9 \\05e9\\05dc\\05d5\\05dd \\05e8\\05d7 \\05e0\\05d7\\05dc \\05e4\\05d5\\05dc\\05d2 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4"
+SUMMARY:u'\\u05d4\\u05e4\\u05d5\\u05e2\\u05dc 
+ \\u05e4\\u05e8\\u05d3\\u05e1\\u05d9\\u05d4' at 
+ u'\\u05d1\\u05d9\\u05ea"\\u05e8 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4 \\u05e9\\u05dc\\u05d5\\u05dd'
+LOCATION:u"\\u05d0\\u05d5\\u05dc\\u05dd \\u05d0\\u05d9\\u05e9 
+ \\u05e9\\u05dc\\u05d5\\u05dd \\u05e8\\u05d7' \\u05e0\\u05d7\\u05dc 
+ \\u05e4\\u05d5\\u05dc\\u05d2 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4"
 TRANSP:OPAQUE
-UID:c73d493c-5306-4c5a-ab1a-54ea7f9b3032@c73d.org
+UID:5bd7ac0f-9fdc-4759-a18d-7304b970aab4@5bd7.org
 END:VEVENT
 BEGIN:VEVENT
-DTSTAMP:20181012T130216Z
+DTSTAMP:20181012T131441Z
+DTSTART:20190410T180000Z
+DTEND:20190410T200000Z
+SUMMARY:u'\\u05de.\\u05e1. \\u05e7\\u05e8\\u05e0\\u05d9 
+ \\u05e9\\u05d5\\u05de\\u05e8\\u05d5\\u05df' at 
+ u'\\u05d1\\u05d9\\u05ea"\\u05e8 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4 \\u05e9\\u05dc\\u05d5\\u05dd'
+LOCATION:u"\\u05d0\\u05d5\\u05dc\\u05dd \\u05d0\\u05d9\\u05e9 
+ \\u05e9\\u05dc\\u05d5\\u05dd \\u05e8\\u05d7' \\u05e0\\u05d7\\u05dc 
+ \\u05e4\\u05d5\\u05dc\\u05d2 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4"
+TRANSP:OPAQUE
+UID:d45f3bbc-b610-4b74-8ea8-524d8be7c9e2@d45f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181012T131441Z
+DTSTART:20190206T180000Z
+DTEND:20190206T200000Z
+SUMMARY:u'\\u05de.\\u05e1. \\u05d0\\u05d1\\u05df 
+ \\u05d9\\u05d4\\u05d5\\u05d3\\u05d4' at u'\\u05d1\\u05d9\\u05ea"\\u05e8 
+ \\u05db\\u05e4\\u05e8 \\u05d9\\u05d5\\u05e0\\u05d4 
+ \\u05e9\\u05dc\\u05d5\\u05dd'
+LOCATION:u"\\u05d0\\u05d5\\u05dc\\u05dd \\u05d0\\u05d9\\u05e9 
+ \\u05e9\\u05dc\\u05d5\\u05dd \\u05e8\\u05d7' \\u05e0\\u05d7\\u05dc 
+ \\u05e4\\u05d5\\u05dc\\u05d2 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4"
+TRANSP:OPAQUE
+UID:a15c8003-4130-4c6d-b71b-9c81f58e17e6@a15c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181012T131441Z
+DTSTART:20181219T173000Z
+DTEND:20181219T193000Z
+SUMMARY:u'\\u05d1\\u05d9\\u05ea"\\u05e8 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4 \\u05e9\\u05dc\\u05d5\\u05dd' at 
+ u'\\u05d4\\u05e4\\u05d5\\u05e2\\u05dc \\u05dc\\u05d1 
+ \\u05d4\\u05e9\\u05e8\\u05d5\\u05df'
+LOCATION:u'\\u05d1\\u05d9\\u05d4"\\u05e1 \\u05d4\\u05d3\\u05e8 
+ \\u05d4\\u05e9\\u05e8\\u05d5\\u05df \\u05de\\u05d5\\u05e9\\u05d1 
+ \\u05d7\\u05e8\\u05d5\\u05ea'
+TRANSP:OPAQUE
+UID:e71c86c1-bbd2-4fc7-9f71-dbef6e488b35@e71c.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181012T131441Z
+DTSTART:20181031T180000Z
+DTEND:20181031T200000Z
+SUMMARY:u'\\u05d1\\u05d9\\u05ea"\\u05e8 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4 \\u05e9\\u05dc\\u05d5\\u05dd' at 
+ u'\\u05de.\\u05e1. \\u05d0\\u05d1\\u05df 
+ \\u05d9\\u05d4\\u05d5\\u05d3\\u05d4'
+LOCATION:u"\\u05d0\\u05d5\\u05dc\\u05dd \\u05e8\\u05dc\\u05e3 
+ \\u05e7\\u05dc\\u05d9\\u05d9\\u05df \\u05e8\\u05d7' 
+ \\u05d4\\u05e9\\u05e8\\u05d5\\u05df \\u05d0\\u05d1\\u05df 
+ \\u05d9\\u05d4\\u05d5\\u05d3\\u05d4"
+TRANSP:OPAQUE
+UID:da9e9075-ac25-4fa2-a919-cf3fcb39b10f@da9e.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181012T131441Z
 DTSTART:20181121T173000Z
 DTEND:20181121T193000Z
-SUMMARY:\\05d1\\05d9\\05ea"\\05e8 \\05db\\05e4\\05e8 \\05d9\\05d5\\05e0\\05d4 \\05e9\\05dc\\05d5\\05dd at \\05de\\05db\\05d1\\05d9 \\05e8\\05e2\\05e0\\05e0\\05d4 \\05d9\\05d5\\05d1\\05dc
-LOCATION:"\\05d0\\05d5\\05dc\\05dd \\05e8\\05d9\\05de\\05d5\\05df \\05e8\\05d7 \\05de\\05e9\\05d4 \\05d3\\05d9\\05d9\\05df 5 \\05e8\\05e2\\05e0\\05e0\\05d4"
+SUMMARY:u'\\u05d1\\u05d9\\u05ea"\\u05e8 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4 \\u05e9\\u05dc\\u05d5\\u05dd' at 
+ u'\\u05de\\u05db\\u05d1\\u05d9 \\u05e8\\u05e2\\u05e0\\u05e0\\u05d4 
+ \\u05d9\\u05d5\\u05d1\\u05dc'
+LOCATION:u"\\u05d0\\u05d5\\u05dc\\u05dd 
+ \\u05e8\\u05d9\\u05de\\u05d5\\u05df \\u05e8\\u05d7' \\u05de\\u05e9\\u05d4 
+ \\u05d3\\u05d9\\u05d9\\u05df 5 \\u05e8\\u05e2\\u05e0\\u05e0\\u05d4"
 TRANSP:OPAQUE
-UID:345218f8-b610-4f5f-97e2-0af96bd8baac@3452.org
+UID:651f5a59-9297-4bc5-acc8-c0e7fd46891a@651f.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181012T131441Z
+DTSTART:20190109T180000Z
+DTEND:20190109T200000Z
+SUMMARY:u'\\u05d4\\u05e4\\u05d5\\u05e2\\u05dc 
+ \\u05d8\\u05d9\\u05d9\\u05d1\\u05d4' at u'\\u05d1\\u05d9\\u05ea"\\u05e8 
+ \\u05db\\u05e4\\u05e8 \\u05d9\\u05d5\\u05e0\\u05d4 
+ \\u05e9\\u05dc\\u05d5\\u05dd'
+LOCATION:u"\\u05d0\\u05d5\\u05dc\\u05dd \\u05d0\\u05d9\\u05e9 
+ \\u05e9\\u05dc\\u05d5\\u05dd \\u05e8\\u05d7' \\u05e0\\u05d7\\u05dc 
+ \\u05e4\\u05d5\\u05dc\\u05d2 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4"
+TRANSP:OPAQUE
+UID:9d2aaa9c-d083-4769-9121-c5a71ea7d302@9d2a.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181012T131441Z
+DTSTART:20190227T180000Z
+DTEND:20190227T200000Z
+SUMMARY:u'\\u05de\\u05db\\u05d1\\u05d9 
+ \\u05e8\\u05e2\\u05e0\\u05e0\\u05d4 \\u05d9\\u05d5\\u05d1\\u05dc' at 
+ u'\\u05d1\\u05d9\\u05ea"\\u05e8 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4 \\u05e9\\u05dc\\u05d5\\u05dd'
+LOCATION:u"\\u05d0\\u05d5\\u05dc\\u05dd \\u05d0\\u05d9\\u05e9 
+ \\u05e9\\u05dc\\u05d5\\u05dd \\u05e8\\u05d7' \\u05e0\\u05d7\\u05dc 
+ \\u05e4\\u05d5\\u05dc\\u05d2 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4"
+TRANSP:OPAQUE
+UID:bbd1497a-c461-4b78-85c6-9f40363dbfd5@bbd1.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181012T131441Z
+DTSTART:20190102T173000Z
+DTEND:20190102T193000Z
+SUMMARY:u'\\u05d1\\u05d9\\u05ea"\\u05e8 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4 \\u05e9\\u05dc\\u05d5\\u05dd' at 
+ u'\\u05de.\\u05e1. \\u05e7\\u05e8\\u05e0\\u05d9 
+ \\u05e9\\u05d5\\u05de\\u05e8\\u05d5\\u05df'
+LOCATION:u'\\u05de\\u05e8\\u05db\\u05d6 \\u05e4\\u05d9\\u05d9\\u05e1 
+ \\u05e7\\u05d4\\u05d9\\u05dc\\u05ea\\u05d9 \\u05e7\\u05e8\\u05e0\\u05d9 
+ \\u05e9\\u05d5\\u05de\\u05e8\\u05d5\\u05df'
+TRANSP:OPAQUE
+UID:41f94a0c-ce73-41f7-a067-99dba0f76f63@41f9.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181012T131441Z
+DTSTART:20181212T180000Z
+DTEND:20181212T200000Z
+SUMMARY:u'\\u05d0\\u05dc\\u05d9\\u05e6\\u05d5\\u05e8 
+ \\u05e8\\u05e2\\u05e0\\u05e0\\u05d4' at u'\\u05d1\\u05d9\\u05ea"\\u05e8 
+ \\u05db\\u05e4\\u05e8 \\u05d9\\u05d5\\u05e0\\u05d4 
+ \\u05e9\\u05dc\\u05d5\\u05dd'
+LOCATION:u"\\u05d0\\u05d5\\u05dc\\u05dd \\u05d0\\u05d9\\u05e9 
+ \\u05e9\\u05dc\\u05d5\\u05dd \\u05e8\\u05d7' \\u05e0\\u05d7\\u05dc 
+ \\u05e4\\u05d5\\u05dc\\u05d2 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4"
+TRANSP:OPAQUE
+UID:8fdae10b-fe7c-4efa-acdd-2b43912d42d0@8fda.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181012T131441Z
+DTSTART:20190123T180000Z
+DTEND:20190123T200000Z
+SUMMARY:u'\\u05de\\u05db\\u05d1\\u05d9 \\u05d4\\u05d5\\u05d3 
+ \\u05d4\\u05e9\\u05e8\\u05d5\\u05df' at u'\\u05d1\\u05d9\\u05ea"\\u05e8 
+ \\u05db\\u05e4\\u05e8 \\u05d9\\u05d5\\u05e0\\u05d4 
+ \\u05e9\\u05dc\\u05d5\\u05dd'
+LOCATION:u"\\u05d0\\u05d5\\u05dc\\u05dd \\u05d0\\u05d9\\u05e9 
+ \\u05e9\\u05dc\\u05d5\\u05dd \\u05e8\\u05d7' \\u05e0\\u05d7\\u05dc 
+ \\u05e4\\u05d5\\u05dc\\u05d2 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4"
+TRANSP:OPAQUE
+UID:e09b5e4e-46b0-48ae-8f5c-960935ed80f0@e09b.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181012T131441Z
+DTSTART:20190130T173000Z
+DTEND:20190130T193000Z
+SUMMARY:u'\\u05d1\\u05d9\\u05ea"\\u05e8 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4 \\u05e9\\u05dc\\u05d5\\u05dd' at 
+ u'\\u05de\\u05db\\u05d1\\u05d9 \\u05db\\u05e4\\u05e8 
+ \\u05e1\\u05d1\\u05d0'
+LOCATION:u'\\u05d0\\u05d5\\u05dc\\u05dd \\u05d0\\u05dc\\u05d5\\u05df  
+ \\u05e9\\u05e9\\u05ea \\u05d4\\u05d9\\u05de\\u05d9\\u05dd 
+ 32\\u05db\\u05e4\\u05e8 \\u05e1\\u05d1\\u05d0'
+TRANSP:OPAQUE
+UID:edfef0e1-8860-48f2-b081-a2fe501c7b8d@edfe.org
+END:VEVENT
+BEGIN:VEVENT
+DTSTAMP:20181012T131441Z
+DTSTART;TZID=/freeassociation.sourceforge.net/Asia/Jerusalem:
+ 20181017T173000
+DTEND;TZID=/freeassociation.sourceforge.net/Asia/Jerusalem:
+ 20181017T193000
+SUMMARY:u'\\u05d1\\u05d9\\u05ea"\\u05e8 \\u05db\\u05e4\\u05e8 
+ \\u05d9\\u05d5\\u05e0\\u05d4 \\u05e9\\u05dc\\u05d5\\u05dd' at 
+ u'\\u05de\\u05db\\u05d1\\u05d9 \\u05d4\\u05d5\\u05d3 
+ \\u05d4\\u05e9\\u05e8\\u05d5\\u05df'
+LOCATION:u"\\u05d9\\u05d2\\u05d0\\u05dc \\u05d0\\u05dc\\u05d5\\u05df 
+ \\u05e8\\u05d7' \\u05de\\u05e9\\u05d0\\u05d1\\u05d9\\u05dd 46 
+ \\u05d4\\u05d5\\u05d3 \\u05d4\\u05e9\\u05e8\\u05d5\\u05df"
+TRANSP:OPAQUE
+UID:ae0e61fc-2b7d-43fa-bf49-742680a9329e@ae0e.org
+DESCRIPTION:
+SEQUENCE:2
+LAST-MODIFIED:20181012T131733Z
 END:VEVENT
 END:VCALENDAR
