@@ -3,9 +3,22 @@ import tempfile, os
 from datetime import datetime, timedelta
 import dateutil
 from icalendar import Calendar, Event
+import argparse
+
+parser = argparse.ArgumentParser()
+
+parser.add_argument('-i', '--input', required=True,
+                  action="store", dest="input",
+                  help="input file name fullpath")
+parser.add_argument('-o', '--output', required=True,
+                  action="store", dest="output",
+                  help="output file name fullpath")
+
+args = parser.parse_args()
+
 
 schedule = []
-with open('schedule.csv', 'rb') as csvfile:
+with open(args.input, 'rb') as csvfile:
     schedule_file_reader = csv.reader(csvfile, delimiter=',')
     for row in schedule_file_reader:
         try:
@@ -23,7 +36,6 @@ with open('schedule.csv', 'rb') as csvfile:
                 .replace(tzinfo=dateutil.tz.tzoffset('XXX', 3*60*60))
             game['end'] = game['start'] + timedelta(hours=2)
             schedule.append(game)
-            print game
 
 c = Calendar()
 
@@ -36,6 +48,6 @@ for game in schedule:
     c.add_component(e)#
 
 directory = tempfile.mkdtemp()
-f = open(os.path.join(directory, '/Users/gilzellner/dev/ibasketball_to_ics/calendar.ics'), 'wb')
+f = open(os.path.join(directory, args.output), 'wb')
 f.write(c.to_ical())
 f.close()
