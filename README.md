@@ -5,7 +5,9 @@ this script take a CSV converted file and converts it to an ICS file you can imp
 usage:
 
 export the schedule you want, you should get an excel file.
+
 convert it to csv using something like gnumeric (cli)
 
 pip install icalendar csv
+
 python csv_to_ics.py -i /home/gil/schedule.csv -o  /home/gil/schedule.ics
