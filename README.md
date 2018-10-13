@@ -1,4 +1,4 @@
-So the ibasketball.co.il lets you export schedules, but they are not easy to use.
+So ibasketball.co.il lets you export schedules, but they are not easy to use.
 they export excel files, which nobody uses today anyway and manually entering on your phone sucks.
 this script take a CSV converted file and converts it to an ICS file you can import on your iphone or android or calendar.
 
